@@ -5,6 +5,7 @@ import PasswordGenerator from '@/tools/password/PasswordGenerator.vue'
 import IMEIGenerator from '@/tools/imei/IMEIGenerator.vue'
 import PhoneGenerator from '@/tools/phone/PhoneGenerator.vue'
 import UUIDGenerator from '@/tools/uuid/UUIDGenerator.vue'
+import AdUnit from '@/components/AdUnit.vue'
 
 useHead({
   title: 'All Tools - LXS Tools',
@@ -114,6 +115,8 @@ const tabs = [
         <UUIDGenerator />
       </div>
     </div>
+
+    <AdUnit />
 
     <!-- Bottom CTA -->
     <div class="text-center mt-8 text-sm text-ink-400">

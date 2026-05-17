@@ -9,6 +9,7 @@ import PhoneGenerator from '@/tools/phone/PhoneGenerator.vue'
 import IMEIGenerator from '@/tools/imei/IMEIGenerator.vue'
 import PasswordGenerator from '@/tools/password/PasswordGenerator.vue'
 import UUIDGenerator from '@/tools/uuid/UUIDGenerator.vue'
+import AdUnit from '@/components/AdUnit.vue'
 
 const route = useRoute()
 const slug = computed(() => route.params.slug as string)
@@ -322,6 +323,7 @@ const faqContent = computed(() => {
         </div>
 
         <!-- Quick Links -->
+        <AdUnit />
         <div class="glass-card rounded-xl p-5">
           <h3 class="font-heading font-semibold text-sm text-heading mb-2">Popular Tools</h3>
           <div class="space-y-1">

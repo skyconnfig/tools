@@ -3,6 +3,7 @@ import { ref, computed } from 'vue'
 import { useRouter } from 'vue-router'
 import { useHead } from '@vueuse/head'
 import ToolCard from '@/components/ToolCard.vue'
+import AdUnit from '@/components/AdUnit.vue'
 import { allToolRoutes } from '@/data/seoPages'
 import type { ToolRoute } from '@/types'
 
@@ -170,6 +171,8 @@ const statItems = [
       </div>
     </section>
 
+    <AdUnit />
+
     <!-- ===== PASSWORD GENERATORS ===== -->
     <section class="border-t border-border bg-surface-raised/20">
       <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
@@ -238,6 +241,8 @@ const statItems = [
         </div>
       </div>
     </section>
+
+    <AdUnit />
 
     <!-- ===== PHONE GENERATORS BY COUNTRY ===== -->
     <section class="border-t border-border bg-surface-raised/20">
