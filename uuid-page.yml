@@ -1,0 +1,198 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - link "LX LXS Tools" [ref=e7] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e9]: LX
+        - generic [ref=e10]: LXS Tools
+      - navigation [ref=e11]:
+        - link "Home" [ref=e12] [cursor=pointer]:
+          - /url: /
+        - button "Tools" [ref=e14]:
+          - text: Tools
+          - img [ref=e15]
+        - link "Blog" [ref=e17] [cursor=pointer]:
+          - /url: /blog
+        - link "About" [ref=e18] [cursor=pointer]:
+          - /url: /about
+        - link "Contact" [ref=e19] [cursor=pointer]:
+          - /url: /contact
+  - main [ref=e20]:
+    - generic [ref=e59]:
+      - generic [ref=e60]:
+        - navigation [ref=e61]:
+          - link "Home" [ref=e62] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e63]: /
+          - link "Tools" [ref=e64] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e65]: /
+          - generic [ref=e66]: Phone
+          - generic [ref=e67]: /
+          - generic [ref=e68]: UUID Generator
+        - generic [ref=e69]:
+          - navigation [ref=e70]:
+            - link "Home" [ref=e71] [cursor=pointer]:
+              - /url: /
+            - generic [ref=e72]: /
+            - generic [ref=e73]: Tools
+            - generic [ref=e74]: /
+            - generic [ref=e75]: UUID Generator - Generate UUID v4 and v7 Online
+          - heading "UUID Generator - Generate UUID v4 and v7 Online" [level=1] [ref=e76]
+          - paragraph [ref=e77]: Generate random UUID v4 and time-based UUID v7 online. Free UUID generator with multiple formats including lowercase, uppercase, braced, and URN.
+          - generic [ref=e79]:
+            - generic [ref=e80]:
+              - generic [ref=e81]:
+                - generic [ref=e82]: Version
+                - combobox [ref=e83] [cursor=pointer]:
+                  - option "UUID v4 (Random)" [selected]
+                  - option "UUID v7 (Time-based)"
+              - generic [ref=e84]:
+                - generic [ref=e85]: Format
+                - combobox [ref=e86] [cursor=pointer]:
+                  - option "xxxxxxxx-xxxx-xxxx" [selected]
+                  - option "xxxxxxxxxxxxxxxx"
+                  - 'option "{xxxxxxxx-xxxx}"'
+                  - option "urn:uuid:xxxx-xxxx"
+              - generic [ref=e87]:
+                - generic [ref=e88]: Case
+                - combobox [ref=e89] [cursor=pointer]:
+                  - option "Lowercase" [selected]
+                  - option "UPPERCASE"
+              - generic [ref=e90]:
+                - generic [ref=e91]: Count
+                - spinbutton [ref=e92]: "5"
+            - button "Generate UUIDs" [ref=e93]
+            - generic [ref=e94]:
+              - generic [ref=e95]:
+                - generic [ref=e96]: 5 UUIDs generated
+                - button "Copy All" [ref=e97]
+              - generic [ref=e98]:
+                - generic [ref=e99]:
+                  - code [ref=e100]: 9a1b74d6-6193-4da7-a105-5c4ceee94ad7
+                  - button "Copy" [ref=e101]
+                - generic [ref=e102]:
+                  - code [ref=e103]: a6073158-1508-4c79-b07e-162348633baf
+                  - button "Copy" [ref=e104]
+                - generic [ref=e105]:
+                  - code [ref=e106]: 89eb8274-bba8-4318-a0a6-c2bd7ba5246b
+                  - button "Copy" [ref=e107]
+                - generic [ref=e108]:
+                  - code [ref=e109]: c20b3aa7-de12-461d-984c-56637d5f7b12
+                  - button "Copy" [ref=e110]
+                - generic [ref=e111]:
+                  - code [ref=e112]: 4d5dcc1a-fbf2-4db4-ba2a-bdd1c509dd55
+                  - button "Copy" [ref=e113]
+            - separator [ref=e114]
+            - generic [ref=e115]:
+              - heading "UUID Validator" [level=3] [ref=e116]
+              - generic [ref=e117]:
+                - textbox "Paste a UUID to validate..." [ref=e118]
+                - button "Validate" [ref=e119]
+            - generic [ref=e120]:
+              - generic [ref=e121]:
+                - generic [ref=e122]: 1 × 10¹⁸
+                - generic [ref=e123]: v4 possible values
+              - generic [ref=e124]:
+                - generic [ref=e125]: "122"
+                - generic [ref=e126]: Random bits (v4)
+              - generic [ref=e127]:
+                - generic [ref=e128]: v4 / v7
+                - generic [ref=e129]: Versions supported
+              - generic [ref=e130]:
+                - generic [ref=e131]: "4"
+                - generic [ref=e132]: Format variants
+        - generic [ref=e133]:
+          - generic [ref=e134]:
+            - heading "What Is This Tool?" [level=2] [ref=e135]
+            - paragraph [ref=e136]: A UUID v4 generator creates random UUID v4 identifiers with 122 random bits. UUIDs are 128-bit universally unique identifiers.
+          - generic [ref=e137]:
+            - heading "How Does It Work?" [level=2] [ref=e138]
+            - paragraph [ref=e139]: Our UUID v4 generator uses cryptographically strong random numbers and properly sets the version and variant bits according to RFC 9562.
+          - generic [ref=e140]:
+            - heading "When Should You Use It?" [level=2] [ref=e141]
+            - paragraph [ref=e142]: Use a UUID v4 generator when you need unique identifiers for database keys, API resources, distributed systems, or any scenario requiring collision-resistant IDs.
+          - generic [ref=e143]:
+            - heading "Frequently Asked Questions" [level=2] [ref=e144]
+            - generic [ref=e145]:
+              - group [ref=e146]:
+                - generic "What is UUID v4?" [ref=e147] [cursor=pointer]:
+                  - text: What is UUID v4?
+                  - img [ref=e148]
+              - group [ref=e150]:
+                - generic "Are UUIDs truly unique?" [ref=e151] [cursor=pointer]:
+                  - text: Are UUIDs truly unique?
+                  - img [ref=e152]
+              - group [ref=e154]:
+                - generic "What is the difference between v4 and v7?" [ref=e155] [cursor=pointer]:
+                  - text: What is the difference between v4 and v7?
+                  - img [ref=e156]
+      - complementary [ref=e158]:
+        - generic [ref=e159]:
+          - heading "🔑 Related UUID Tools" [level=3] [ref=e160]:
+            - generic [ref=e161]: 🔑
+            - generic [ref=e162]: Related UUID Tools
+          - generic [ref=e163]:
+            - link "UUID v4 Generator" [ref=e164] [cursor=pointer]:
+              - /url: /tools/uuid-v4-generator
+            - link "UUID v7 Generator" [ref=e165] [cursor=pointer]:
+              - /url: /tools/uuid-v7-generator
+            - link "UUID Validator" [ref=e166] [cursor=pointer]:
+              - /url: /tools/uuid-validator
+        - generic [ref=e167]:
+          - heading "Popular Tools" [level=3] [ref=e168]
+          - generic [ref=e169]:
+            - link "🔐 Password Generator" [ref=e170] [cursor=pointer]:
+              - /url: /tools/password-generator
+            - link "📱 IMEI Generator" [ref=e171] [cursor=pointer]:
+              - /url: /tools/imei-generator
+            - link "🛡️ Strong Password Generator" [ref=e172] [cursor=pointer]:
+              - /url: /tools/strong-password-generator
+            - link "✅ IMEI Validator" [ref=e173] [cursor=pointer]:
+              - /url: /tools/imei-validator
+            - link "📞 US Phone Generator" [ref=e174] [cursor=pointer]:
+              - /url: /tools/us-phone-number-generator
+  - contentinfo [ref=e21]:
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - generic [ref=e24]:
+          - generic [ref=e25]:
+            - generic [ref=e27]: LX
+            - generic [ref=e28]: LXS Tools
+          - paragraph [ref=e29]: Free online utility tools for developers and everyday use.
+        - generic [ref=e30]:
+          - heading "Tools" [level=4] [ref=e31]
+          - list [ref=e32]:
+            - listitem [ref=e33]:
+              - link "Password Generator" [ref=e34] [cursor=pointer]:
+                - /url: /tools/password-generator
+            - listitem [ref=e35]:
+              - link "IMEI Generator" [ref=e36] [cursor=pointer]:
+                - /url: /tools/imei-generator
+            - listitem [ref=e37]:
+              - link "Phone Generator" [ref=e38] [cursor=pointer]:
+                - /url: /tools/us-phone-number-generator
+        - generic [ref=e39]:
+          - heading "Pages" [level=4] [ref=e40]
+          - list [ref=e41]:
+            - listitem [ref=e42]:
+              - link "Blog" [ref=e43] [cursor=pointer]:
+                - /url: /blog
+            - listitem [ref=e44]:
+              - link "About" [ref=e45] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e46]:
+              - link "Contact" [ref=e47] [cursor=pointer]:
+                - /url: /contact
+        - generic [ref=e48]:
+          - heading "Legal" [level=4] [ref=e49]
+          - list [ref=e50]:
+            - listitem [ref=e51]:
+              - link "Privacy Policy" [ref=e52] [cursor=pointer]:
+                - /url: /privacy-policy
+            - listitem [ref=e53]:
+              - link "Terms of Service" [ref=e54] [cursor=pointer]:
+                - /url: /terms
+      - generic [ref=e55]:
+        - paragraph [ref=e56]: © 2026 LXS Tools. All rights reserved.
+        - paragraph [ref=e57]: Built for utility. Powered by precision.

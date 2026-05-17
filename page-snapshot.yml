@@ -1,0 +1,393 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - link "LX LXS Tools" [ref=e7] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e9]: LX
+        - generic [ref=e10]: LXS Tools
+      - navigation [ref=e11]:
+        - link "Home" [ref=e12] [cursor=pointer]:
+          - /url: /
+        - button "Tools" [ref=e14]:
+          - text: Tools
+          - img [ref=e15]
+        - link "Blog" [ref=e17] [cursor=pointer]:
+          - /url: /blog
+        - link "About" [ref=e18] [cursor=pointer]:
+          - /url: /about
+        - link "Contact" [ref=e19] [cursor=pointer]:
+          - /url: /contact
+  - main [ref=e20]:
+    - generic [ref=e21]:
+      - generic [ref=e24]:
+        - generic [ref=e25]:
+          - generic [ref=e26]: 100% Free & Private
+          - heading "Free Online Utility Tools" [level=1] [ref=e28]
+          - paragraph [ref=e29]: Password generator, IMEI generator, phone number generator — all in your browser, no sign-up needed.
+        - generic [ref=e31]:
+          - img [ref=e32]
+          - textbox "Search tools... (e.g. password, imei, phone)" [ref=e34]
+      - generic [ref=e37]:
+        - generic [ref=e38]:
+          - generic [ref=e39]: 49+
+          - generic [ref=e40]: Optimized for search
+        - generic [ref=e41]:
+          - generic [ref=e42]: "15"
+          - generic [ref=e43]: Phone number support
+        - generic [ref=e44]:
+          - generic [ref=e45]: "6"
+          - generic [ref=e46]: IMEI TAC support
+        - generic [ref=e47]:
+          - generic [ref=e48]: 100%
+          - generic [ref=e49]: Zero server load
+      - generic [ref=e50]:
+        - generic [ref=e52]:
+          - heading "Popular Tools" [level=2] [ref=e53]
+          - paragraph [ref=e54]: Most used tools on LXS Tools
+        - generic [ref=e55]:
+          - link "🔐 Password Generator" [ref=e56] [cursor=pointer]:
+            - /url: /tools/password-generator
+            - generic [ref=e57]: 🔐
+            - heading "Password Generator" [level=3] [ref=e58]
+          - link "🔑 UUID Generator" [ref=e59] [cursor=pointer]:
+            - /url: /tools/uuid-generator
+            - generic [ref=e60]: 🔑
+            - heading "UUID Generator" [level=3] [ref=e61]
+          - link "📱 IMEI Generator" [ref=e62] [cursor=pointer]:
+            - /url: /tools/imei-generator
+            - generic [ref=e63]: 📱
+            - heading "IMEI Generator" [level=3] [ref=e64]
+          - link "✅ IMEI Validator" [ref=e65] [cursor=pointer]:
+            - /url: /tools/imei-validator
+            - generic [ref=e66]: ✅
+            - heading "IMEI Validator" [level=3] [ref=e67]
+          - link "📞 US Phone Generator" [ref=e68] [cursor=pointer]:
+            - /url: /tools/us-phone-number-generator
+            - generic [ref=e69]: 📞
+            - heading "US Phone Generator" [level=3] [ref=e70]
+          - link "🔐 Strong Password Generator" [ref=e71] [cursor=pointer]:
+            - /url: /tools/strong-password-generator
+            - generic [ref=e72]: 🔐
+            - heading "Strong Password Generator" [level=3] [ref=e73]
+          - link "✅ UUID Validator" [ref=e74] [cursor=pointer]:
+            - /url: /tools/uuid-validator
+            - generic [ref=e75]: ✅
+            - heading "UUID Validator" [level=3] [ref=e76]
+          - link "🔢 PIN Code Generator" [ref=e77] [cursor=pointer]:
+            - /url: /tools/pin-code-generator
+            - generic [ref=e78]: 🔢
+            - heading "PIN Code Generator" [level=3] [ref=e79]
+      - generic [ref=e81]:
+        - generic [ref=e82]:
+          - generic [ref=e83]: 🔐
+          - generic [ref=e84]:
+            - heading "Password Generators" [level=2] [ref=e85]
+            - paragraph [ref=e86]: Create strong, secure passwords for any need
+        - generic [ref=e87]:
+          - link "🔐 Password Generator Generate strong, secure passwords instantly. Free password generator with customizable length, symbols, and numbers." [ref=e88] [cursor=pointer]:
+            - /url: /tools/password-generator
+            - generic [ref=e89]:
+              - generic [ref=e90]: 🔐
+              - generic [ref=e91]:
+                - heading "Password Generator" [level=3] [ref=e92]
+                - paragraph [ref=e93]: Generate strong, secure passwords instantly. Free password generator with customizable length, symbols, and numbers.
+          - link "🔐 Strong Password Generator Create strong, hack-proof passwords with our secure password generator. Customizable length and character types." [ref=e94] [cursor=pointer]:
+            - /url: /tools/strong-password-generator
+            - generic [ref=e95]:
+              - generic [ref=e96]: 🔐
+              - generic [ref=e97]:
+                - heading "Strong Password Generator" [level=3] [ref=e98]
+                - paragraph [ref=e99]: Create strong, hack-proof passwords with our secure password generator. Customizable length and character types.
+          - link "🔐 Random Password Generator Generate completely random passwords with one click. Free secure random password generator." [ref=e100] [cursor=pointer]:
+            - /url: /tools/random-password-generator
+            - generic [ref=e101]:
+              - generic [ref=e102]: 🔐
+              - generic [ref=e103]:
+                - heading "Random Password Generator" [level=3] [ref=e104]
+                - paragraph [ref=e105]: Generate completely random passwords with one click. Free secure random password generator.
+          - link "🔐 Secure Password Generator Create hack-proof passwords with our secure password generator. Military-grade random password generation." [ref=e106] [cursor=pointer]:
+            - /url: /tools/secure-password-generator
+            - generic [ref=e107]:
+              - generic [ref=e108]: 🔐
+              - generic [ref=e109]:
+                - heading "Secure Password Generator" [level=3] [ref=e110]
+                - paragraph [ref=e111]: Create hack-proof passwords with our secure password generator. Military-grade random password generation.
+          - link "🧠 Memorable Password Generator Generate easy-to-remember but secure passwords using word-based combinations. Free memorable password generator." [ref=e112] [cursor=pointer]:
+            - /url: /tools/memorable-password-generator
+            - generic [ref=e113]:
+              - generic [ref=e114]: 🧠
+              - generic [ref=e115]:
+                - heading "Memorable Password Generator" [level=3] [ref=e116]
+                - paragraph [ref=e117]: Generate easy-to-remember but secure passwords using word-based combinations. Free memorable password generator.
+          - link "🔢 PIN Code Generator Generate random PIN codes of any length. Free PIN generator for secure numeric codes." [ref=e118] [cursor=pointer]:
+            - /url: /tools/pin-code-generator
+            - generic [ref=e119]:
+              - generic [ref=e120]: 🔢
+              - generic [ref=e121]:
+                - heading "PIN Code Generator" [level=3] [ref=e122]
+                - paragraph [ref=e123]: Generate random PIN codes of any length. Free PIN generator for secure numeric codes.
+      - generic [ref=e125]:
+        - generic [ref=e126]:
+          - generic [ref=e127]: 📱
+          - generic [ref=e128]:
+            - heading "IMEI Generators & Validator" [level=2] [ref=e129]
+            - paragraph [ref=e130]: Generate valid IMEI numbers for any brand
+        - generic [ref=e131]:
+          - link "📱 IMEI Generator Generate valid IMEI numbers with Luhn checksum. Free IMEI generator tool for testing and development." [ref=e132] [cursor=pointer]:
+            - /url: /tools/imei-generator
+            - generic [ref=e133]:
+              - generic [ref=e134]: 📱
+              - generic [ref=e135]:
+                - heading "IMEI Generator" [level=3] [ref=e136]
+                - paragraph [ref=e137]: Generate valid IMEI numbers with Luhn checksum. Free IMEI generator tool for testing and development.
+          - link "📱 Samsung IMEI Generator Generate valid Samsung IMEI numbers with correct TAC codes. Free Samsung IMEI generator." [ref=e138] [cursor=pointer]:
+            - /url: /tools/samsung-imei-generator
+            - generic [ref=e139]:
+              - generic [ref=e140]: 📱
+              - generic [ref=e141]:
+                - heading "Samsung IMEI Generator" [level=3] [ref=e142]
+                - paragraph [ref=e143]: Generate valid Samsung IMEI numbers with correct TAC codes. Free Samsung IMEI generator.
+          - link "📱 Apple IMEI Generator Generate valid Apple IMEI numbers with correct TAC codes for iPhone. Free Apple IMEI generator." [ref=e144] [cursor=pointer]:
+            - /url: /tools/apple-imei-generator
+            - generic [ref=e145]:
+              - generic [ref=e146]: 📱
+              - generic [ref=e147]:
+                - heading "Apple IMEI Generator" [level=3] [ref=e148]
+                - paragraph [ref=e149]: Generate valid Apple IMEI numbers with correct TAC codes for iPhone. Free Apple IMEI generator.
+          - link "📱 Google Pixel IMEI Generator Generate valid Google Pixel IMEI numbers. Free Google IMEI generator for Pixel devices." [ref=e150] [cursor=pointer]:
+            - /url: /tools/google-imei-generator
+            - generic [ref=e151]:
+              - generic [ref=e152]: 📱
+              - generic [ref=e153]:
+                - heading "Google Pixel IMEI Generator" [level=3] [ref=e154]
+                - paragraph [ref=e155]: Generate valid Google Pixel IMEI numbers. Free Google IMEI generator for Pixel devices.
+          - link "📱 Xiaomi IMEI Generator Generate valid Xiaomi IMEI numbers with correct TAC codes. Free Xiaomi IMEI generator." [ref=e156] [cursor=pointer]:
+            - /url: /tools/xiaomi-imei-generator
+            - generic [ref=e157]:
+              - generic [ref=e158]: 📱
+              - generic [ref=e159]:
+                - heading "Xiaomi IMEI Generator" [level=3] [ref=e160]
+                - paragraph [ref=e161]: Generate valid Xiaomi IMEI numbers with correct TAC codes. Free Xiaomi IMEI generator.
+          - link "📱 OnePlus IMEI Generator Generate valid OnePlus IMEI numbers. Free OnePlus IMEI generator for testing." [ref=e162] [cursor=pointer]:
+            - /url: /tools/oneplus-imei-generator
+            - generic [ref=e163]:
+              - generic [ref=e164]: 📱
+              - generic [ref=e165]:
+                - heading "OnePlus IMEI Generator" [level=3] [ref=e166]
+                - paragraph [ref=e167]: Generate valid OnePlus IMEI numbers. Free OnePlus IMEI generator for testing.
+          - link "📱 Huawei IMEI Generator Generate valid Huawei IMEI numbers with correct TAC codes. Free Huawei IMEI generator." [ref=e168] [cursor=pointer]:
+            - /url: /tools/huawei-imei-generator
+            - generic [ref=e169]:
+              - generic [ref=e170]: 📱
+              - generic [ref=e171]:
+                - heading "Huawei IMEI Generator" [level=3] [ref=e172]
+                - paragraph [ref=e173]: Generate valid Huawei IMEI numbers with correct TAC codes. Free Huawei IMEI generator.
+          - link "✅ IMEI Validator Validate IMEI numbers with Luhn checksum verification. Free online IMEI validator tool." [ref=e174] [cursor=pointer]:
+            - /url: /tools/imei-validator
+            - generic [ref=e175]:
+              - generic [ref=e176]: ✅
+              - generic [ref=e177]:
+                - heading "IMEI Validator" [level=3] [ref=e178]
+                - paragraph [ref=e179]: Validate IMEI numbers with Luhn checksum verification. Free online IMEI validator tool.
+      - generic [ref=e181]:
+        - generic [ref=e182]:
+          - generic [ref=e183]: 🔑
+          - generic [ref=e184]:
+            - heading "UUID Generators & Validator" [level=2] [ref=e185]
+            - paragraph [ref=e186]: Generate UUID v4 and v7 identifiers
+        - generic [ref=e187]:
+          - link "🔑 UUID Generator Generate random UUID v4 and time-based UUID v7 online. Free UUID generator with multiple formats including lowercase, uppercase, braced, and URN." [ref=e188] [cursor=pointer]:
+            - /url: /tools/uuid-generator
+            - generic [ref=e189]:
+              - generic [ref=e190]: 🔑
+              - generic [ref=e191]:
+                - heading "UUID Generator" [level=3] [ref=e192]
+                - paragraph [ref=e193]: Generate random UUID v4 and time-based UUID v7 online. Free UUID generator with multiple formats including lowercase, uppercase, braced, and URN.
+          - link "🔑 UUID v4 Generator Generate random UUID v4 identifiers online. Free UUID v4 generator with 122 random bits." [ref=e194] [cursor=pointer]:
+            - /url: /tools/uuid-v4-generator
+            - generic [ref=e195]:
+              - generic [ref=e196]: 🔑
+              - generic [ref=e197]:
+                - heading "UUID v4 Generator" [level=3] [ref=e198]
+                - paragraph [ref=e199]: Generate random UUID v4 identifiers online. Free UUID v4 generator with 122 random bits.
+          - link "🔑 UUID v7 Generator Generate time-ordered UUID v7 identifiers. Free UUID v7 generator with Unix timestamp prefix." [ref=e200] [cursor=pointer]:
+            - /url: /tools/uuid-v7-generator
+            - generic [ref=e201]:
+              - generic [ref=e202]: 🔑
+              - generic [ref=e203]:
+                - heading "UUID v7 Generator" [level=3] [ref=e204]
+                - paragraph [ref=e205]: Generate time-ordered UUID v7 identifiers. Free UUID v7 generator with Unix timestamp prefix.
+          - link "✅ UUID Validator Validate UUID strings and detect UUID version. Free online UUID validator tool." [ref=e206] [cursor=pointer]:
+            - /url: /tools/uuid-validator
+            - generic [ref=e207]:
+              - generic [ref=e208]: ✅
+              - generic [ref=e209]:
+                - heading "UUID Validator" [level=3] [ref=e210]
+                - paragraph [ref=e211]: Validate UUID strings and detect UUID version. Free online UUID validator tool.
+      - generic [ref=e213]:
+        - generic [ref=e214]:
+          - generic [ref=e215]: 📞
+          - generic [ref=e216]:
+            - heading "Phone Number Generators by Country" [level=2] [ref=e217]
+            - paragraph [ref=e218]: Generate random phone numbers for any country
+        - generic [ref=e219]:
+          - link "🇺🇸 US Phone Number Generator Generate random US phone numbers with real area codes. Free American phone number generator for testing and development." [ref=e220] [cursor=pointer]:
+            - /url: /tools/us-phone-number-generator
+            - generic [ref=e221]:
+              - generic [ref=e222]: 🇺🇸
+              - generic [ref=e223]:
+                - heading "US Phone Number Generator" [level=3] [ref=e224]
+                - paragraph [ref=e225]: Generate random US phone numbers with real area codes. Free American phone number generator for testing and development.
+          - link "🇨🇦 Canada Phone Number Generator Generate random Canadian phone numbers with real area codes. Free Canada phone number generator." [ref=e226] [cursor=pointer]:
+            - /url: /tools/canada-phone-number-generator
+            - generic [ref=e227]:
+              - generic [ref=e228]: 🇨🇦
+              - generic [ref=e229]:
+                - heading "Canada Phone Number Generator" [level=3] [ref=e230]
+                - paragraph [ref=e231]: Generate random Canadian phone numbers with real area codes. Free Canada phone number generator.
+          - link "🇬🇧 UK Phone Number Generator Generate random UK phone numbers with real area codes. Free British mobile number generator." [ref=e232] [cursor=pointer]:
+            - /url: /tools/uk-phone-number-generator
+            - generic [ref=e233]:
+              - generic [ref=e234]: 🇬🇧
+              - generic [ref=e235]:
+                - heading "UK Phone Number Generator" [level=3] [ref=e236]
+                - paragraph [ref=e237]: Generate random UK phone numbers with real area codes. Free British mobile number generator.
+          - link "🇦🇺 Australia Phone Number Generator Generate random Australian phone numbers. Free Australia mobile number generator." [ref=e238] [cursor=pointer]:
+            - /url: /tools/australia-phone-number-generator
+            - generic [ref=e239]:
+              - generic [ref=e240]: 🇦🇺
+              - generic [ref=e241]:
+                - heading "Australia Phone Number Generator" [level=3] [ref=e242]
+                - paragraph [ref=e243]: Generate random Australian phone numbers. Free Australia mobile number generator.
+          - link "🇩🇪 Germany Phone Number Generator Generate random German phone numbers. Free Deutschland Telefonnummer generator." [ref=e244] [cursor=pointer]:
+            - /url: /tools/germany-phone-number-generator
+            - generic [ref=e245]:
+              - generic [ref=e246]: 🇩🇪
+              - generic [ref=e247]:
+                - heading "Germany Phone Number Generator" [level=3] [ref=e248]
+                - paragraph [ref=e249]: Generate random German phone numbers. Free Deutschland Telefonnummer generator.
+          - link "🇫🇷 France Phone Number Generator Generate random French phone numbers. Free France mobile number generator." [ref=e250] [cursor=pointer]:
+            - /url: /tools/france-phone-number-generator
+            - generic [ref=e251]:
+              - generic [ref=e252]: 🇫🇷
+              - generic [ref=e253]:
+                - heading "France Phone Number Generator" [level=3] [ref=e254]
+                - paragraph [ref=e255]: Generate random French phone numbers. Free France mobile number generator.
+          - link "🇯🇵 Japan Phone Number Generator Generate random Japanese phone numbers. Free Japan mobile number generator." [ref=e256] [cursor=pointer]:
+            - /url: /tools/japan-phone-number-generator
+            - generic [ref=e257]:
+              - generic [ref=e258]: 🇯🇵
+              - generic [ref=e259]:
+                - heading "Japan Phone Number Generator" [level=3] [ref=e260]
+                - paragraph [ref=e261]: Generate random Japanese phone numbers. Free Japan mobile number generator.
+          - link "🇨🇳 China Phone Number Generator Generate random Chinese phone numbers. Free China mobile number generator." [ref=e262] [cursor=pointer]:
+            - /url: /tools/china-phone-number-generator
+            - generic [ref=e263]:
+              - generic [ref=e264]: 🇨🇳
+              - generic [ref=e265]:
+                - heading "China Phone Number Generator" [level=3] [ref=e266]
+                - paragraph [ref=e267]: Generate random Chinese phone numbers. Free China mobile number generator.
+          - link "🇮🇳 India Phone Number Generator Generate random Indian phone numbers. Free India mobile number generator." [ref=e268] [cursor=pointer]:
+            - /url: /tools/india-phone-number-generator
+            - generic [ref=e269]:
+              - generic [ref=e270]: 🇮🇳
+              - generic [ref=e271]:
+                - heading "India Phone Number Generator" [level=3] [ref=e272]
+                - paragraph [ref=e273]: Generate random Indian phone numbers. Free India mobile number generator.
+          - link "🇧🇷 Brazil Phone Number Generator Generate random Brazilian phone numbers. Free Brazil mobile number generator." [ref=e274] [cursor=pointer]:
+            - /url: /tools/brazil-phone-number-generator
+            - generic [ref=e275]:
+              - generic [ref=e276]: 🇧🇷
+              - generic [ref=e277]:
+                - heading "Brazil Phone Number Generator" [level=3] [ref=e278]
+                - paragraph [ref=e279]: Generate random Brazilian phone numbers. Free Brazil mobile number generator.
+          - link "🇲🇽 Mexico Phone Number Generator Generate random Mexican phone numbers. Free Mexico mobile number generator." [ref=e280] [cursor=pointer]:
+            - /url: /tools/mexico-phone-number-generator
+            - generic [ref=e281]:
+              - generic [ref=e282]: 🇲🇽
+              - generic [ref=e283]:
+                - heading "Mexico Phone Number Generator" [level=3] [ref=e284]
+                - paragraph [ref=e285]: Generate random Mexican phone numbers. Free Mexico mobile number generator.
+          - link "🇰🇷 South Korea Phone Number Generator Generate random South Korean phone numbers. Free Korea mobile number generator." [ref=e286] [cursor=pointer]:
+            - /url: /tools/south-korea-phone-number-generator
+            - generic [ref=e287]:
+              - generic [ref=e288]: 🇰🇷
+              - generic [ref=e289]:
+                - heading "South Korea Phone Number Generator" [level=3] [ref=e290]
+                - paragraph [ref=e291]: Generate random South Korean phone numbers. Free Korea mobile number generator.
+      - generic [ref=e293]:
+        - generic [ref=e294]:
+          - generic [ref=e295]: 🇺🇸
+          - generic [ref=e296]:
+            - heading "US Phone Numbers by State" [level=2] [ref=e297]
+            - paragraph [ref=e298]: Generate phone numbers with real local area codes
+        - generic [ref=e299]:
+          - link "New York" [ref=e300] [cursor=pointer]:
+            - /url: /tools/new-york-phone-number-generator
+          - link "California" [ref=e301] [cursor=pointer]:
+            - /url: /tools/california-phone-number-generator
+          - link "Texas" [ref=e302] [cursor=pointer]:
+            - /url: /tools/texas-phone-number-generator
+          - link "Florida" [ref=e303] [cursor=pointer]:
+            - /url: /tools/florida-phone-number-generator
+          - link "Illinois" [ref=e304] [cursor=pointer]:
+            - /url: /tools/illinois-phone-number-generator
+          - link "Pennsylvania" [ref=e305] [cursor=pointer]:
+            - /url: /tools/pennsylvania-phone-number-generator
+          - link "Ohio" [ref=e306] [cursor=pointer]:
+            - /url: /tools/ohio-phone-number-generator
+          - link "Georgia" [ref=e307] [cursor=pointer]:
+            - /url: /tools/georgia-phone-number-generator
+          - link "Washington" [ref=e308] [cursor=pointer]:
+            - /url: /tools/washington-phone-number-generator
+          - link "Massachusetts" [ref=e309] [cursor=pointer]:
+            - /url: /tools/massachusetts-phone-number-generator
+      - generic [ref=e311]:
+        - heading "More Tools Coming Soon" [level=2] [ref=e312]
+        - paragraph [ref=e313]: We're building UUID generators, QR code generators, fake name generators, and more. Stay tuned!
+        - link "Suggest a Tool" [ref=e314] [cursor=pointer]:
+          - /url: /contact
+  - contentinfo [ref=e315]:
+    - generic [ref=e316]:
+      - generic [ref=e317]:
+        - generic [ref=e318]:
+          - generic [ref=e319]:
+            - generic [ref=e321]: LX
+            - generic [ref=e322]: LXS Tools
+          - paragraph [ref=e323]: Free online utility tools for developers and everyday use.
+        - generic [ref=e324]:
+          - heading "Tools" [level=4] [ref=e325]
+          - list [ref=e326]:
+            - listitem [ref=e327]:
+              - link "Password Generator" [ref=e328] [cursor=pointer]:
+                - /url: /tools/password-generator
+            - listitem [ref=e329]:
+              - link "IMEI Generator" [ref=e330] [cursor=pointer]:
+                - /url: /tools/imei-generator
+            - listitem [ref=e331]:
+              - link "Phone Generator" [ref=e332] [cursor=pointer]:
+                - /url: /tools/us-phone-number-generator
+        - generic [ref=e333]:
+          - heading "Pages" [level=4] [ref=e334]
+          - list [ref=e335]:
+            - listitem [ref=e336]:
+              - link "Blog" [ref=e337] [cursor=pointer]:
+                - /url: /blog
+            - listitem [ref=e338]:
+              - link "About" [ref=e339] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e340]:
+              - link "Contact" [ref=e341] [cursor=pointer]:
+                - /url: /contact
+        - generic [ref=e342]:
+          - heading "Legal" [level=4] [ref=e343]
+          - list [ref=e344]:
+            - listitem [ref=e345]:
+              - link "Privacy Policy" [ref=e346] [cursor=pointer]:
+                - /url: /privacy-policy
+            - listitem [ref=e347]:
+              - link "Terms of Service" [ref=e348] [cursor=pointer]:
+                - /url: /terms
+      - generic [ref=e349]:
+        - paragraph [ref=e350]: © 2026 LXS Tools. All rights reserved.
+        - paragraph [ref=e351]: Built for utility. Powered by precision.

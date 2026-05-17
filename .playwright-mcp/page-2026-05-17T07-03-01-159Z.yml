@@ -1,0 +1,64 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - link "LX LXS Tools" [ref=e7] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e9]: LX
+        - generic [ref=e10]: LXS Tools
+      - navigation [ref=e11]:
+        - link "Home" [ref=e12] [cursor=pointer]:
+          - /url: /
+        - button "Tools" [ref=e14]:
+          - text: Tools
+          - img [ref=e15]
+        - link "Blog" [ref=e17] [cursor=pointer]:
+          - /url: /blog
+        - link "About" [ref=e18] [cursor=pointer]:
+          - /url: /about
+        - link "Contact" [ref=e19] [cursor=pointer]:
+          - /url: /contact
+  - main [ref=e20]
+  - contentinfo [ref=e21]:
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - generic [ref=e24]:
+          - generic [ref=e25]:
+            - generic [ref=e27]: LX
+            - generic [ref=e28]: LXS Tools
+          - paragraph [ref=e29]: Free online utility tools for developers and everyday use.
+        - generic [ref=e30]:
+          - heading "Tools" [level=4] [ref=e31]
+          - list [ref=e32]:
+            - listitem [ref=e33]:
+              - link "Password Generator" [ref=e34] [cursor=pointer]:
+                - /url: /tools/password-generator
+            - listitem [ref=e35]:
+              - link "IMEI Generator" [ref=e36] [cursor=pointer]:
+                - /url: /tools/imei-generator
+            - listitem [ref=e37]:
+              - link "Phone Generator" [ref=e38] [cursor=pointer]:
+                - /url: /tools/us-phone-number-generator
+        - generic [ref=e39]:
+          - heading "Pages" [level=4] [ref=e40]
+          - list [ref=e41]:
+            - listitem [ref=e42]:
+              - link "Blog" [ref=e43] [cursor=pointer]:
+                - /url: /blog
+            - listitem [ref=e44]:
+              - link "About" [ref=e45] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e46]:
+              - link "Contact" [ref=e47] [cursor=pointer]:
+                - /url: /contact
+        - generic [ref=e48]:
+          - heading "Legal" [level=4] [ref=e49]
+          - list [ref=e50]:
+            - listitem [ref=e51]:
+              - link "Privacy Policy" [ref=e52] [cursor=pointer]:
+                - /url: /privacy-policy
+            - listitem [ref=e53]:
+              - link "Terms of Service" [ref=e54] [cursor=pointer]:
+                - /url: /terms
+      - generic [ref=e55]:
+        - paragraph [ref=e56]: © 2026 LXS Tools. All rights reserved.
+        - paragraph [ref=e57]: Built for utility. Powered by precision.

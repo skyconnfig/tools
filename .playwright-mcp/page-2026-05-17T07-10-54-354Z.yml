@@ -1,0 +1,157 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - link "LX LXS Tools" [ref=e7] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e9]: LX
+        - generic [ref=e10]: LXS Tools
+      - navigation [ref=e11]:
+        - link "Home" [ref=e12] [cursor=pointer]:
+          - /url: /
+        - button "Tools" [ref=e14]:
+          - text: Tools
+          - img [ref=e15]
+        - link "Blog" [ref=e17] [cursor=pointer]:
+          - /url: /blog
+        - link "About" [ref=e18] [cursor=pointer]:
+          - /url: /about
+        - link "Contact" [ref=e19] [cursor=pointer]:
+          - /url: /contact
+  - main [ref=e20]:
+    - generic [ref=e21]:
+      - generic [ref=e22]:
+        - heading "All Tools" [level=1] [ref=e23]
+        - paragraph [ref=e24]: Choose from our collection of free online utility tools. Pick a category below and start using the tool instantly — no sign-up, no server uploads, just your browser.
+      - generic [ref=e26]:
+        - button "🔐 Password 6" [ref=e27]:
+          - generic [ref=e28]: 🔐
+          - generic [ref=e29]: Password
+          - generic [ref=e30]: "6"
+        - button "📱 IMEI 8" [ref=e31]:
+          - generic [ref=e32]: 📱
+          - generic [ref=e33]: IMEI
+          - generic [ref=e34]: "8"
+        - button "📞 Phone 22" [ref=e35]:
+          - generic [ref=e36]: 📞
+          - generic [ref=e37]: Phone
+          - generic [ref=e38]: "22"
+        - button "🔑 UUID 4" [active] [ref=e39]:
+          - generic [ref=e40]: 🔑
+          - generic [ref=e41]: UUID
+          - generic [ref=e42]: "4"
+      - generic [ref=e123]:
+        - generic [ref=e124]:
+          - heading "🔑 UUID Generator & Validator" [level=2] [ref=e125]:
+            - generic [ref=e126]: 🔑
+            - text: UUID Generator & Validator
+          - paragraph [ref=e127]: Generate UUID v4 (random) and v7 (time-ordered) identifiers. Supports standard, no-hyphens, braced, and URN formats.
+        - generic [ref=e128]:
+          - generic [ref=e129]:
+            - generic [ref=e130]:
+              - generic [ref=e131]: Version
+              - combobox [ref=e132] [cursor=pointer]:
+                - option "UUID v4 (Random)" [selected]
+                - option "UUID v7 (Time-based)"
+            - generic [ref=e133]:
+              - generic [ref=e134]: Format
+              - combobox [ref=e135] [cursor=pointer]:
+                - option "xxxxxxxx-xxxx-xxxx" [selected]
+                - option "xxxxxxxxxxxxxxxx"
+                - 'option "{xxxxxxxx-xxxx}"'
+                - option "urn:uuid:xxxx-xxxx"
+            - generic [ref=e136]:
+              - generic [ref=e137]: Case
+              - combobox [ref=e138] [cursor=pointer]:
+                - option "Lowercase" [selected]
+                - option "UPPERCASE"
+            - generic [ref=e139]:
+              - generic [ref=e140]: Count
+              - spinbutton [ref=e141]: "5"
+          - button "Generate UUIDs" [ref=e142]
+          - generic [ref=e143]:
+            - generic [ref=e144]:
+              - generic [ref=e145]: 5 UUIDs generated
+              - button "Copy All" [ref=e146]
+            - generic [ref=e147]:
+              - generic [ref=e148]:
+                - code [ref=e149]: 24cdb9f8-f094-497b-b720-7924bd9f19b9
+                - button "Copy" [ref=e150]
+              - generic [ref=e151]:
+                - code [ref=e152]: bde7efae-9bb3-44a7-a0ee-2d68f7f12b7a
+                - button "Copy" [ref=e153]
+              - generic [ref=e154]:
+                - code [ref=e155]: 5fe24ecc-11f1-4478-868b-a45e7603cede
+                - button "Copy" [ref=e156]
+              - generic [ref=e157]:
+                - code [ref=e158]: bc189ee2-4f38-4319-8b5b-019b3307c74c
+                - button "Copy" [ref=e159]
+              - generic [ref=e160]:
+                - code [ref=e161]: 6b9145a1-c942-461c-ab14-e1cff9e22862
+                - button "Copy" [ref=e162]
+          - separator [ref=e163]
+          - generic [ref=e164]:
+            - heading "UUID Validator" [level=3] [ref=e165]
+            - generic [ref=e166]:
+              - textbox "Paste a UUID to validate..." [ref=e167]
+              - button "Validate" [ref=e168]
+          - generic [ref=e169]:
+            - generic [ref=e170]:
+              - generic [ref=e171]: 1 × 10¹⁸
+              - generic [ref=e172]: v4 possible values
+            - generic [ref=e173]:
+              - generic [ref=e174]: "122"
+              - generic [ref=e175]: Random bits (v4)
+            - generic [ref=e176]:
+              - generic [ref=e177]: v4 / v7
+              - generic [ref=e178]: Versions supported
+            - generic [ref=e179]:
+              - generic [ref=e180]: "4"
+              - generic [ref=e181]: Format variants
+      - generic [ref=e84]:
+        - text: All tools run 100% client-side.
+        - link "Suggest a tool" [ref=e85] [cursor=pointer]:
+          - /url: /contact
+  - contentinfo [ref=e86]:
+    - generic [ref=e87]:
+      - generic [ref=e88]:
+        - generic [ref=e89]:
+          - generic [ref=e90]:
+            - generic [ref=e92]: LX
+            - generic [ref=e93]: LXS Tools
+          - paragraph [ref=e94]: Free online utility tools for developers and everyday use.
+        - generic [ref=e95]:
+          - heading "Tools" [level=4] [ref=e96]
+          - list [ref=e97]:
+            - listitem [ref=e98]:
+              - link "Password Generator" [ref=e99] [cursor=pointer]:
+                - /url: /tools/password-generator
+            - listitem [ref=e100]:
+              - link "IMEI Generator" [ref=e101] [cursor=pointer]:
+                - /url: /tools/imei-generator
+            - listitem [ref=e102]:
+              - link "Phone Generator" [ref=e103] [cursor=pointer]:
+                - /url: /tools/us-phone-number-generator
+        - generic [ref=e104]:
+          - heading "Pages" [level=4] [ref=e105]
+          - list [ref=e106]:
+            - listitem [ref=e107]:
+              - link "Blog" [ref=e108] [cursor=pointer]:
+                - /url: /blog
+            - listitem [ref=e109]:
+              - link "About" [ref=e110] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e111]:
+              - link "Contact" [ref=e112] [cursor=pointer]:
+                - /url: /contact
+        - generic [ref=e113]:
+          - heading "Legal" [level=4] [ref=e114]
+          - list [ref=e115]:
+            - listitem [ref=e116]:
+              - link "Privacy Policy" [ref=e117] [cursor=pointer]:
+                - /url: /privacy-policy
+            - listitem [ref=e118]:
+              - link "Terms of Service" [ref=e119] [cursor=pointer]:
+                - /url: /terms
+      - generic [ref=e120]:
+        - paragraph [ref=e121]: © 2026 LXS Tools. All rights reserved.
+        - paragraph [ref=e122]: Built for utility. Powered by precision.
